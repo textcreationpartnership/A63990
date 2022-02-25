@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Twelve weightie queries of great concernment shewing in what cases the difference of mens judgements, and opinions in matters of religion, is not to be restrained but tolerated by the civill power.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63990</idno>
+            <idno type="STC">Wing T3406</idno>
+            <idno type="STC">ESTC R38383</idno>
+            <idno type="EEBO-CITATION">17355475</idno>
+            <idno type="OCLC">ocm 17355475</idno>
+            <idno type="VID">106416</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63990)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106416)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1106:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Twelve weightie queries of great concernment shewing in what cases the difference of mens judgements, and opinions in matters of religion, is not to be restrained but tolerated by the civill power.</title>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Matthew Simmons, for Henry Overton, and are to be sold at his shop ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published according to order."</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Liberty of conscience --  England.</term>
+               <term>Dissenters, Religious --  England.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:106416:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 8 -->
+            <pb facs="tcp:106416:1"/>
+            <!-- PDF PAGE 8 -->
+            <p>Twelve weightie QUERIES OF GREAT CONCERNMENT, SHEWING In what Caſes the difference of mens Judgements, and OPinions in mat<g ref="char:EOLhyphen"/>ters of Religion, is not to be reſtrained but tolerated by the Civill power.</p>
+            <p>
+               <hi>Publiſhed according to Order.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Matthew Simmons,</hi> for <hi>Henry Overton,</hi> and are to be ſold at his ſhop in <hi>Popes-head</hi> Alley. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="questions">
+            <pb facs="tcp:106416:2"/>
+            <!-- PDF PAGE 9 -->
+            <pb n="1" facs="tcp:106416:2"/>
+            <!-- PDF PAGE 9 -->
+            <head>
+               <hi>TWEL<g ref="char:V">Ʋ</g>E WEIGHTIE</hi> QUERIES OF Great Concernment, Shewing in what caſes the difference of mens Judg<g ref="char:EOLhyphen"/>ments, and opinions in matters of Religion is not to be reſtrained, but tolerated by the Civill power.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N what Caſes the difference of mens Judgements, and opinions in matters of Religion is not to be reſtrained, but tolerated by the Civill power. De<g ref="char:EOLunhyphen"/>clared in certaine Queries; unto which, that ſatisfaction may be given in away, of cleere reaſon and demon<g ref="char:EOLhyphen"/>ſtration, in ſtead of prohibition and pu<g ref="char:EOLhyphen"/>niſhment, is the earneſt deſire of all ingenuous men and particularly of thoſe, who in a confident expectation here<g ref="char:EOLhyphen"/>of, have with all faithfulneſſe adhered to the <hi>Parliament,</hi> and ſtood up for their defence in time of their greateſt danger and extremitie to the almoſt, if not altogether ru<g ref="char:EOLhyphen"/>ining, of themſelves, their Eſtates and Families, and who can never be diſcouraged or with-drawne from their for<g ref="char:EOLhyphen"/>mer activitie, or readie affections to the <hi>Parliament,</hi> by any thing ſo much as to be required with an unnaturall, and unthankfull oppreſſion in their Conſciences.</p>
+            <p>Some things premiſed that are plaine in themſelves, and neceſſarie in the firſt place to be ſtated, in order to the better clearing the enſuing Queries.</p>
+            <p n="1">1. That the knowledge which any man hath of God, or capacitie rightly to judge and underſtand his will; is the free gift of God, is that which man is the receiver of from God, and not the Author of in himſelfe, <hi>Rom.</hi> 11.
+<pb n="2" facs="tcp:106416:3"/>
+               <!-- PDF PAGE 10 -->
+               <hi>Who hath knowne the mind of the Lord at any time? Who hath given unto him &amp;c.</hi>
+            </p>
+            <p n="2">2. That the way, by which God gives, and conveighes this knowledge of himſelfe, and of his will unto man, is by planting within man, two fundamentall principles of light and illumination: by the one of which he becomes a naturall man, and beares the image of the earthly man, <hi>the firſt Adam, who was made a living ſoule:</hi> and by the o<g ref="char:EOLhyphen"/>ther of theſe he becomes a ſpirituall man, and beares the Image of the heavenly man, the <hi>ſecond Adam who was made a quickning Spirit,</hi> 1 <hi>Cor.</hi> 15.</p>
+            <p n="3">3. Theſe two fundamentall principles, planted in man, are given him by God for the Law, and rule to teach, and guide him in the knowledge of God, and to enable him, rightly to judge and diſcerne the will, and mind of God, in that which man is to thinke, ſpeake, or doe: theſe two Lawes in this ſenſe, are mentioned in <hi>Rom.</hi> 7. and 8. chap. <hi>the one is the Law of nature or of workes; the other the Law of the Spirit of life in Chriſt Jeſus, Rom.</hi> 8.3. and what the one could not doe in man, or to man, in that it was weake through the fleſh; that the other did, and doth accompliſh in man, and for man, through the quickning power of the eternall Spirit.</p>
+            <p n="4">4. Theſe two Lawes, or inward principles planted in man, are in themſelves holy, righteous, ſpirituall good, and perfect; and did evidently manifeſt themſelves ſo to be, by their operations in the perſons of the firſt and of the ſecond <hi>Adam;</hi> and the weakneſſe and deficiencie of the firſt was not in it ſelfe, but onely in relation to the ſubject wherein it wrought; It was weake through the fleſh, the ſtate in which man was created and ſubjected to this Law was fraile, and ſubject to change, but the Law it ſelfe was without exception under it, and by it was man made perfect in himſelfe, <hi>but they have ſought out ma<g ref="char:EOLhyphen"/>ny inventions, Eccleſiaſtes</hi> 7.29.</p>
+            <pb n="3" facs="tcp:106416:3"/>
+            <!-- PDF PAGE 10 -->
+            <p n="5">V. Theſe two Laws, are ſtill the two fundamentall principles, which are given, and continued by God in the hearts of men for their rule to guide, and teach them, in the knowledge of himſelf and of his will, <hi>Rom.</hi> 2.13, 14, 15.25 26, 29. ſo, <hi>Gal.</hi> 4.21, 22, 23, 24. according to the renewed operations of both, or either of which, in man ſince the fall, he hath a capacity or power begotten in him, more or leſſe clearely to know God, and rightly to judge and di<g ref="char:EOLhyphen"/>ſcern of his will, and to make uſe of the Scriptures, and all meanes conducing thereunto; and otherwiſe then by this, man ſince his fall, is in himſelfe, unto all knowledge of God and to every good work, reprobate, <hi>Tit.</hi> 1.16.</p>
+            <p>Theſe things thus premiſed,</p>
+            <p>Firſt Quaere, Whether, when it pleaſes God to renew the working and illuminations of both, or either of theſe principles, in any man, it be not moſt reaſonable, lawfull, and neceſſary, that he ſhould ſubmit unto the ſame, and fol<g ref="char:EOLhyphen"/>low the dictates, and light thereof, according to the mea<g ref="char:EOLhyphen"/>ſure, and manner, which God is pleaſed to diſpence them unto him; and whether it be not unreaſonable, unlawfull, and notoriouſly ſinfull in any man to act contrary to, or differing from the cleer evidence, full perſwaſion, and light of both, or either of theſe principles within him, upon any command whatſoever from man, or any outward pretence whatſoever, <hi>Rom.</hi> 14.22, 23.</p>
+            <p>Second Quaere, Whileſt men doe carefully obſerve the inward Teachings, Dictates, and Operations, of both or either of theſe principles, whether may they not be ſaid to hold fundamentalls of the knowledge of God, and whether for the meaſures of illumination, (which for the preſent they have received) though in the ſmalleſt and
+<pb n="4" facs="tcp:106416:4"/>
+               <!-- PDF PAGE 11 -->weakeſt degree, waiting, and earneſtly inquiring after more. Are they to be judged, upbraided, cenſured, blam<g ref="char:EOLhyphen"/>ed, or much leſſe puniſhed, or put to death by others, who take themſelves to be much more learned, and to have re<g ref="char:EOLhyphen"/>ceived in farre more abundance then they, 1 <hi>Cor.</hi> 4.7. for who maketh thee to differ from another, or what haſt thou that thou haſt not received? Now if thou didſt receive it, why doſt thou glory as if thou hadſt not received it?</p>
+            <p>Third Quaere, Whether thoſe meaſures of illumination and knowledge of God, and of his will, which are com<g ref="char:EOLhyphen"/>municated to men, onely by the light of nature, which for the preſent they have, and whilſt they know no better, may not be profeſſed in word, and practiſed in actions, ſo farre as they ure ſutable, and agreeable to the law of Nature? and this though Nature doe teach and diſperſe ſeverall degrees of this knowledge, and in different wayes of expreſſion, unto ſome more, unto ſome leſſe, as in daily experience we ſee is done.</p>
+            <p>Fourth Quaere, Whether ſuch men, faithfully obeying this inward principle, of the light of Nature, in the cleer illuminations and operations thereof, and diligently im<g ref="char:EOLhyphen"/>proving all means, which they meet with for the increaſe of their knowledge; but yet for the preſent remaining al<g ref="char:EOLhyphen"/>together ignorant, and unacquainted with the ſupernatu<g ref="char:EOLhyphen"/>rall principle, the Law of the ſpirit of life in Chriſt (which by the ſtrength of nature is not attaineable, but onely by the free gift and almighty power of God) whether may not ſuch men freely confeſſe their want of this knowledge, and the difficulties they finde in themſelves to ſubmit to it? and whether they may not by argument, debate, and diſ<g ref="char:EOLhyphen"/>pute, endevour to receive ſatisfaction, from any that is
+<pb n="5" facs="tcp:106416:4"/>
+               <!-- PDF PAGE 11 -->probable to give it them, and if this liberty be not permit<g ref="char:EOLhyphen"/>ted, is not the moſt proper and ingenuous meanes of their own conviction, and of finding out the truth denyed unto them?</p>
+            <p>Fifth Quaere, Whether thoſe meaſures of illumination and knowledge of God, and of his will, communicated unto men by the quickning Spirit of Chriſt, or by a ſuper<g ref="char:EOLhyphen"/>naturall light, which for the preſent they have received, and yet in much diverſity, and whilſt they know no more, may not be profeſſed, in ſuch expreſſions or words, and practiſed in ſuch outward formes or actions, as are agree<g ref="char:EOLhyphen"/>able to the Scriptures, and which no expreſſe Text of Scripture contradicts; and whether they may not be free<g ref="char:EOLhyphen"/>ly argued, debated, diſputed amongſt others differing from them; in order to finde out the full truth? and whether, if this be not permitted and tollerated, are not men reſtrai<g ref="char:EOLhyphen"/>ned from that confeſſion, and teſtimony, which God re<g ref="char:EOLhyphen"/>quires of their outward man, to beare unto the truth? and are they not denied a proper meanes appointed by God for growing in the grace and knowledge of Jeſus Chriſt, even the mutuall imparting of their ſeverall gifts one unto ano<g ref="char:EOLhyphen"/>ther?</p>
+            <p>Sixt Quaere, Whether difference of opinion and judge<g ref="char:EOLhyphen"/>ment, in the things of God, and matters of Religion, doe not neceſſarily ariſe and ſpring up in men, from thoſe diver<g ref="char:EOLhyphen"/>ſity of gifts, or different meaſures of illuminations, from thoſe various adminiſtrations, which one and the ſelf-ſame ſpirit divideth to every one, as pleaſeth him, for the pro<g ref="char:EOLhyphen"/>fit of the whole body, 1 <hi>Cor.</hi> 12. and whether it will not from hence inevitably follow, that it is impoſſible to ſup<g ref="char:EOLhyphen"/>preſſe the differences of judgements, and opinions amongſt
+<pb n="6" facs="tcp:106416:5"/>
+               <!-- PDF PAGE 12 -->men, in matters of Religion, but by ſuppreſſing the Spirit of God himſelf, and limitting the holy One of <hi>Iſrael,</hi> in his wiſe diſpenſations, and free operations? and are we ſtronger then He? 1 <hi>Cor.</hi> 10.22.</p>
+            <p>Seventh Quaere, Whether the body of Chriſt, doth not conſiſt of many members, and thoſe variouſly differing, in judgement and opinion, according to the diverſity of gifts, and meaſures of knowledge they have received, ſome having the place of the eye, others of the hand, others of the feet, and others which ſeem to be more feeble? 1 <hi>Cor.</hi> 12. and whether there be not a law which knits and binds theſe many members in unity of ſpirit, notwithſtanding their bodily or appearing difference, even the royall Law of love, ſpoken of in <hi>James,</hi> and deſcribed in the 1 <hi>Cor.</hi> 13. a ſpirit in them, in the midſt of the difference among them; which ſuffers long, which is kind, which envies not, which vaunts not it ſelf, which is not puffed up, which behaves not it ſelf unſeemly, which ſeeketh not her own, is not ea<g ref="char:EOLhyphen"/>ſily provoked, thinketh no evill, which rejoyceth not in iniquity, but in the truth, which beareth all things, which beleeveth all things, hopeth all things, indureth all things, This is my Commandement that you love one another as I have loved you, <hi>Joh.</hi> 15.</p>
+            <p>Eight Quaere, whether the contrary ſpirit to this, in thoſe that profeſſe themſelves to be Chriſtians, and mem<g ref="char:EOLhyphen"/>bers of Chriſts body, be not that murtherous ſpirit of <hi>Caine;</hi> forbidden by the 6 Commandement, according to Chriſts expoſition thereupon <hi>Match.</hi> 5. under the expreſ<g ref="char:EOLhyphen"/>ſion, of being angry with our brother without a cauſe; the inſtance whereof is there given, in judging and upbrai<g ref="char:EOLhyphen"/>ping one another, for the wants and defects either of natu<g ref="char:EOLhyphen"/>rall
+<pb n="7" facs="tcp:106416:5"/>
+               <!-- PDF PAGE 12 -->or ſupernaturall light; ſaying to our brother <hi>Racha,</hi> or thou foole, and whether it be not, that hatred againſt our brother, ſo much condemned in theſe, and the like places of Scripture. Let every one be ſwift to heare, ſlow to ſpeake, and ſlow to wrath: for the wrath of man worketh not the righteouſneſſe of God, <hi>James</hi> 1.19, 20. hee that ſaith, he is in the light, and hateth his brother, is in darke<g ref="char:EOLhyphen"/>neſſe even untill now, 1 <hi>John</hi> 2.9. In this the children of God, are made manifeſt from the children of the Devill. Whoſoever doth not righteouſneſſe, is not of God; nor he that hateth his brother, 1 <hi>John</hi> 2.10. If a man ſay I love God, and hate his brother, he is a lyar; for he that loveth not his brother, whom he hath ſeene; how can he love God, whom he hath not ſeene? <hi>John</hi> 4. but why doſt thou judge thy brother? or why doſt thou ſet at naught thy brother? we ſhall all ſtand before the judgement ſeat of Chriſt.</p>
+            <p>Ninth Quaere, whether difference of judgement or opi<g ref="char:EOLhyphen"/>nion, either in naturall, or in ſpirituall men; profeſſed and practiſed according to the above-ſaid limitations, be not the juſt and lawfull liberty, which is due to every ſpirituall man, as he is a Chriſtian; and to every naturall man, as he is a reaſonable man. And whether this ought to be for<g ref="char:EOLhyphen"/>bidden or reſtrayned by the power of man, or can be without manifeſt tyranny and oppreſſion and fighting a<g ref="char:EOLhyphen"/>gainſt God: whether ſuch a tolleration as this, be not ac<g ref="char:EOLhyphen"/>cording to the will of Chriſt, and for the profit of the whole body of Chriſt; and more juſtifiable by the word of God, then that unity of judgement and uniformity of practice in matters of Religion, which is ſubmitted unto upon grounds of feare, or implicit faith; and practiſed onely or chiefly in conformity to that power of man, that commands and injoynes the ſame.</p>
+            <pb n="8" facs="tcp:106416:6"/>
+            <!-- PDF PAGE 13 -->
+            <p>Tenth Quaere, whether ſuch a tolleration, practiſed in a ſpirit of love, and meekneſſe, one towards another, with in<g ref="char:EOLhyphen"/>quiſitive mindes after truth, and faithfull hearts to that Government; under whoſe protection, men may be per<g ref="char:EOLhyphen"/>mitted to live in all godlineſſe and honeſty, according to the principles of nature, and of grace, may not conſiſt with the unity, peace, ſafety, and proſperity of any ſtate, or na<g ref="char:EOLhyphen"/>tion, under what forme of civill Government ſoever? and whether it be not the moſt likely meanes to preſerve that Government whatſoever it be, from change or hazard. The Intereſt of conſciences amongſt all being hereby gra<g ref="char:EOLhyphen"/>tified, which is of neereſt concernment to honeſt and ver<g ref="char:EOLhyphen"/>tuous men; and the ſelfe intereſt of the Clergy weakned and defeated; who, what Church formes ſoever they ſet up, will be ever impoſing their private opinions, in mat<g ref="char:EOLhyphen"/>ters of Religion, for infallible truths, and incenſing Prince againſt people, and people againſt Prince; and one ſort of men againſt another, making their followers to eſpouſe, and maintaine their unjuſt quarrels, till they become in<g ref="char:EOLhyphen"/>ſenſibly ſlaves to their ambition, and boundleſſe power, inſtead of attayning to any ſolid, reall, or truly Chriſtian reformation.</p>
+            <p>Eleventh Quaere, whether that wiſedome and power of the Clergy, which hath taken upon it in all ages, to ſup<g ref="char:EOLhyphen"/>preſſe Hereſie and Schiſme by humane Laws, and penal<g ref="char:EOLhyphen"/>ties, have not beene a perverting, and interrupting of that Law of love amongſt the members of Chriſts body, which he commands. And whether they under the pretence of compoſing differences, and ſetling a Government over the body of Chriſt; by indeavouring to reduce all the members of the body, to unity of judgement, and unifor<g ref="char:EOLhyphen"/>mity
+<pb n="9" facs="tcp:106416:6"/>
+               <!-- PDF PAGE 13 -->of practiſe, in matters of Religion; upon grounds of outward compulſion, have not diſcovered in them<g ref="char:EOLhyphen"/>ſelves, that true ſpirit of Schiſme deſcribed, 1 <hi>Cor.</hi> 12. (which they would ſeeme to extirpate) which deſpiſes all below it, and envies all above it, as unneceſſary members, and fit to be cut off from the body; ſo defacing and di<g ref="char:EOLhyphen"/>viding the body of Chriſt, by labouring to make the whole body, but one member; and where then is the body?</p>
+            <p>Twelfe Quaere, whether the two principles before men<g ref="char:EOLhyphen"/>tioned, of ſupernaturall and naturall light, did not both meet together in their perfection in the perſon of Chriſt; and whe her as they are found in him, and doe ſhine forth in the glory of his face, are they not the Kingdome of God within us, <hi>Luke</hi> 17.12. which conſiſts not in word onely, but in power, 1 <hi>Cor.</hi> 4.20. by which we are to be abſolutely ſetled, and governed: and unto which we are to be ſubject in all our actions. Whether theſe two prin<g ref="char:EOLhyphen"/>ciples ſo profeſſed, and practiſed, be not the two witneſ<g ref="char:EOLhyphen"/>ſes ſpoken of, <hi>Revel.</hi> 11. that are to propheſie a thouſand, two hundred, and threeſcore dayes in ſackcloath: and du<g ref="char:EOLhyphen"/>ring that time to be confined and fettered by the outward formes of mens inventions, ſet up and injoyned as the will and minde of Chriſt, by the power of man for the ſuppreſſing of Blaſphemies, Hereſie, and Schiſme. Whe<g ref="char:EOLhyphen"/>ther, at the end of their teſtimony, the laſt enemy they are to conflict with, be not thoſe, who having a forme of god<g ref="char:EOLhyphen"/>lineſſe, deny the power thereof, 2 <hi>Tim.</hi> 3. <hi>ver.</hi> 1. to 6. ma<g ref="char:EOLhyphen"/>king the Kingdome of God, to conſiſt in word onely, and not in power: being of the ſpirit of that boaſting Iew, 2 <hi>Rom.</hi> 17, <hi>&amp;c.</hi> who reſted in the law, who made his boaſts of God, who knew his will, and approved the
+<pb n="10" facs="tcp:106416:7"/>
+               <!-- PDF PAGE 14 -->things moſt excellent, being inſtructed out of the Law, who was confident of his being a guide to the blinde, a light to them that ſate in darkneſſe; and inſtructer of the fooliſh; a teacher of babes; having the forme of know<g ref="char:EOLhyphen"/>ledge, and of the truth in the Law; but notwithſtanding all this, his praiſe was only of men, but not of God; whe<g ref="char:EOLhyphen"/>ther by this generation of men (which Chriſt <hi>Luk.</hi> 21.32. ſayes, were not to paſſe away till his ſecond comming) muſt not theſe witneſſes have warre made againſt them, and be overcome, and ſlain, and muſt not their dead bo<g ref="char:EOLhyphen"/>dies lye in the great City? <hi>Jeruſalem</hi> in forme or in letter, ſignified by the place where our Lord was crucified, and which in the ſenſe of the Holy Ghoſt, is accounted <hi>Sodome</hi> and <hi>Egipt?</hi> and whether immediately after, ſhall not the ſpirit of God raiſe them up in that power and glory, which their enemies ſhall tremble at, and not be able to with<g ref="char:EOLhyphen"/>ſtand, whereby the kingdomes of this world, ſhall become the kingdomes of our Lord Chriſt, and hee ſhall Reigne for ever and ever: Ever ſo Lord Jeſus, <hi>Amen. Come quickly.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:106416:7"/>
+            <!-- PDF PAGE 14 -->
+         </div>
+      </body>
+   </text>
+</TEI>
